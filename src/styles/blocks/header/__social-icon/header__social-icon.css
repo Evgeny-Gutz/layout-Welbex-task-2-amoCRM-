@@ -1,4 +1,4 @@
-.header__social-icon:hover {
-    cursor: pointer;
-    background-color: #adaeb0;
+.header__social-icon {
+    margin: 0 34px 0;
+    padding: 0;
 }

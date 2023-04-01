@@ -1,7 +1,10 @@
 .header__menu-element {
-    display: inline;
-    text-decoration: none;
-    color: #E4E5EA;
+    margin: 0 30px 0 0;
+    padding: 0;
+}
+
+.header__menu-element:last-child {
+    margin: 0;
 }
 
 .header__menu-element:hover {
