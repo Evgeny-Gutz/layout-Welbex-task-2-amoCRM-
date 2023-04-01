@@ -18,7 +18,10 @@
 @import url('./blocks/main/__left-block/main__left-block.css');
 @import url('./blocks/main/__right-block/main__right-block.css');
 @import url('./blocks/main/__h4/main__h4.css');
-@import url('./blocks/main/__text-gradient/main__text-gradient.css');
+@import url('./blocks/main/__h4-gradient/main__h4-gradient.css');
+@import url('./blocks/main/__h3/main__h3.css');
+@import url('./blocks/main/__h3-gradient/main__h3-gradient.css');
+@import url('./blocks/main/__slogan/main__slogan.css');
 @import url('./blocks/main/__table-group/main__table-group.css');
 @import url('./blocks/main/__table-h6/main__table-h6.css');
 @import url('./blocks/main/__table-text/main__table-text.css');
