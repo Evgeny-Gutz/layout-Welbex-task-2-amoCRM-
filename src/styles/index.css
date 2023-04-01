@@ -2,7 +2,6 @@
 @import url('./vendor/fonts/fonts.css');
 @import url('./blocks/root/root.css');
 
-@import url('./blocks/text/_align/text_align_right.css');
 @import url('./blocks/social-icons/social-icons.css');
 
 @import url('./blocks/header/header.css');
@@ -40,8 +39,12 @@
 @import url('./blocks/footer/__adress/footer__adress.css');
 @import url('./blocks/footer/__social-icons/footer__social-icons.css');
 @import url('./blocks/footer/__social-icon/footer__social-icon.css');
+@import url('./blocks/footer/__phone/footer__phone.css');
 @import url('./blocks/footer/__top-block/footer__top-block.css');
 @import url('./blocks/footer/__menu-section/footer__menu-section.css');
 @import url('./blocks/footer/__block-navigations/footer__block-navigations.css');
 @import url('./blocks/footer/__bottom-block/footer__bottom-block.css');
 @import url('./blocks/footer/__copyright/footer__copyright.css');
+
+@import url('./blocks/text/_align/text_align_right.css');
+@import url('./blocks/margin/margin_bottom_0.css');

@@ -8,3 +8,16 @@ footer {
     flex-direction: column;
     color: #E4E5EA;
 }
+
+@media screen and (max-width: 525px) {
+    footer {
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding: 41px 0 0 15px;
+        max-width: 1180px;
+        min-width: 320px;
+        display: flex;
+        flex-direction: column;
+        color: #E4E5EA;
+    }
+}

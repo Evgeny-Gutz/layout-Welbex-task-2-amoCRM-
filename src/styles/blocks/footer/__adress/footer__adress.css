@@ -8,3 +8,10 @@
     line-height: 1.1875;
     color: #E4E5EA;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__adress {
+        font-size: 0.875rem;
+        line-height: 1.2142;
+    }
+}

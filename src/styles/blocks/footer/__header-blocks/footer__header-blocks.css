@@ -10,3 +10,11 @@
     text-transform: uppercase;
     color: #656566;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__header-blocks {
+        font-size: 0.75rem;
+        line-height: 1.25;
+        text-align: left;
+    }
+}

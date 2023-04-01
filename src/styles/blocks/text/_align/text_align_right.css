@@ -1,5 +1,9 @@
 .text_align_right {
-    margin: 0;
-    padding: 0;
     text-align: right;
+}
+
+@media screen and (max-width: 535px) {
+    .text_align_right {
+        text-align: left;
+    }
 }

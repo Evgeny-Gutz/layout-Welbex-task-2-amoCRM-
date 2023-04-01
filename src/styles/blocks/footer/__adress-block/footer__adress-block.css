@@ -3,3 +3,9 @@
     flex-direction: column;
     align-items: flex-end;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__adress-block {
+        align-items: flex-start;
+    }
+}

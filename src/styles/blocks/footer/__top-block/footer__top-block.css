@@ -2,3 +2,15 @@
     display: grid;
     grid-template-columns: 300px 540px 300px;
 }
+
+@media screen and (max-width: 1180px) {
+    .footer__top-block {
+        grid-template-columns: repeat(2, 50vw);
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .footer__top-block {
+        grid-template-columns: repeat(1, 100vw);
+    }
+}

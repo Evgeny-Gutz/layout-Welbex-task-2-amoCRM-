@@ -13,3 +13,9 @@
 .footer__copyright:last-child {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__copyright {
+        text-align: left;
+    }
+}

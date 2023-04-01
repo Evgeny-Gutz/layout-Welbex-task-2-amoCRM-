@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__list-block {
+        padding-bottom: 30px;
+    }
+}

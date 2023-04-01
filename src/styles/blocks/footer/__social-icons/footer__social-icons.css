@@ -3,3 +3,9 @@
     margin: 0;
     padding: 20px 0 19px 0;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__social-icons {
+        padding: 12px 0 14px 0;
+    }
+}
