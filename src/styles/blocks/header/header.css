@@ -8,7 +8,7 @@
     color: #E4E5EA;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 760px) {
     .header {
         padding: 20px 16px;
     }

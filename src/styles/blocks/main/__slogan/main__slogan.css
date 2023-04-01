@@ -8,3 +8,10 @@
     line-height: 1.222;
     color: #E4E5EA;
 }
+
+@media screen and (max-width: 760px) {
+    .main__slogan {
+        padding: 15px 0 0 0;
+        width: 84vw;
+    }
+}

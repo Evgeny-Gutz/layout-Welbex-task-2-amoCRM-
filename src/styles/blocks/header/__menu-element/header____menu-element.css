@@ -7,8 +7,14 @@
     margin: 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 760px) {
     .header__menu-element {
         margin: 0 16px 0 0;
+    }
+}
+
+@media screen and (max-width: 535px) {    
+    .header__menu-element:last-child {
+        display: none;
     }
 }

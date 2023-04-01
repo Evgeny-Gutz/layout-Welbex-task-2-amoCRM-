@@ -19,3 +19,9 @@
     cursor: pointer;
     background-color: #325fc8;
 }
+
+@media screen and (max-width: 760px) {
+    .main__button {
+        display: none;
+    }
+}

@@ -9,7 +9,7 @@
     line-height: 1.1875;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 1140px) {
     .header__phone {
         display: none;
     }

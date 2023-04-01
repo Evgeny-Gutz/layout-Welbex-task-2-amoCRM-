@@ -8,3 +8,29 @@
     grid-template-columns: repeat(2, 570px);
     color: #E4E5EA;
 }
+
+@media screen and (max-width: 1180px) {
+    .main {
+        padding: 90px 20px 0;
+        grid-template-columns: repeat(2, 48vw);
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .main {
+        padding: 0 0 0 0;    
+        grid-template-columns: 100vw;
+        justify-items: center;
+    }
+}
+
+@media screen and (max-width: 535px) {
+    .main {
+        padding: 40px 0 0 15px;
+        grid-template-columns: 100vw;
+        justify-items: start;
+        background-image: url('../../../images/main_background_535.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

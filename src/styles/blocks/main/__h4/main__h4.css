@@ -9,3 +9,9 @@
     text-align: right;
     color: #E4E5EA;
 }
+
+@media screen and (max-width: 760px) {
+    .main__h4 {
+        text-align: left;
+    }
+}
