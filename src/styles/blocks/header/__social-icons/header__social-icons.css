@@ -1,0 +1,7 @@
+.header__social-icons {
+    margin: 0;
+    padding: 0;
+    min-width: 41.82%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.header__menu-element {
+    display: inline;
+    text-decoration: none;
+    color: #E4E5EA;
+}
+
+.header__menu-element:hover {
+    cursor: pointer;
+    color: #adaeb0;
+}

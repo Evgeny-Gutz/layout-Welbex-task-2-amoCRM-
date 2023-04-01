@@ -1,0 +1,13 @@
+.header__menu {
+    margin: 0;
+    padding: 4px 137px 0 52px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    min-width: 503px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.1875;
+}

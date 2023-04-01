@@ -1,0 +1,13 @@
+.root {
+    margin: 0 auto;
+    padding: 0;
+    background: #0E1014;
+    background-image: url('../../../images/background_balls.png');
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 320px;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
