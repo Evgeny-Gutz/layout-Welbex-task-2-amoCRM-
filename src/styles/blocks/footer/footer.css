@@ -1,3 +1,10 @@
 footer {
-    background-color: brown;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 124px 20px 0;
+    max-width: 1180px;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    color: #E4E5EA;
 }

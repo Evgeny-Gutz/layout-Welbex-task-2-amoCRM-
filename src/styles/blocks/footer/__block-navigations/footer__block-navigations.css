@@ -1,0 +1,4 @@
+.footer__block-navigations {
+    display: grid;
+    grid-template-columns: 200px 200px;
+}

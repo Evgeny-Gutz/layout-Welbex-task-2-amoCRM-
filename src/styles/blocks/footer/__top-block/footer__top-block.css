@@ -1,0 +1,4 @@
+.footer__top-block {
+    display: grid;
+    grid-template-columns: 300px 540px 300px;
+}

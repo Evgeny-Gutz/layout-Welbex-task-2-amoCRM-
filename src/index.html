@@ -23,7 +23,7 @@
         </nav>
         <div class="header__information">
             <p class="header__phone">+7 555 555-55-55</p>
-            <p class="header__social-icons">
+            <p class="social-icons header__social-icons">
                 <a href="#"><img src="<%=require('./images/telegram.svg')%>" alt="Telegram"></a>
                 <a class="header__social-icon" href="#"><img src="<%=require('./images/phone.svg')%>" alt="Phone"></a>
                 <a href="#"><img src="<%=require('./images/whatsapp.svg')%>" alt="WhatsApp"></a>
@@ -63,5 +63,55 @@
             <button class="main__button">Получить консультацию</button>
         </aside>
     </main>
+    <footer class="footer">
+        <div class="footer__top-block">
+            <section>
+                <h6 class="footer__header-blocks">O компании</h6>
+                <ul class="footer__list-block">
+                    <li class="footer__list-element"><a class="footer__link" href="#">Партнёрская программа</a></li>
+                    <li class="footer__list-element"><a class="footer__link" href="#">Вакансии</a></li>
+                </ul>
+            </section>
+            <section class="footer__menu-section">
+                <h6 class="footer__header-blocks">Меню</h6>
+                <div class="footer__block-navigations">
+                    <nav>
+                        <ul class="footer__list-block">
+                            <li class="footer__list-element"><a class="footer__link" href="#">Расчёт стоимости</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Услуги</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Виджеты</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Интеграции</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Наши клиенты</a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <ul class="footer__list-block">
+                            <li class="footer__list-element"><a class="footer__link" href="#">Кейсы</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Благодарственные письма</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Сертификаты</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Блог на Youtube</a></li>
+                            <li class="footer__list-element"><a class="footer__link" href="#">Вопрос / Ответ</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </section>
+            <section>
+                <h6 class="footer__header-blocks text_align_right">Контакты</h6>
+                <address class="footer__adress-block">
+                    <p class="text_align_right">+7 555 555-55-55</p>
+                    <p class="social-icons footer__social-icons">
+                        <a href="#"><img src="<%=require('./images/telegram.svg')%>" alt="Telegram"></a>
+                        <a class="footer__social-icon" href="#"><img src="<%=require('./images/phone.svg')%>" alt="Phone"></a>
+                        <a href="#"><img src="<%=require('./images/whatsapp.svg')%>" alt="WhatsApp"></a>
+                    </p>
+                    <p class="footer__adress">Москва, Путевой проезд 3c1, к 902</p>
+                </address>
+            </section>
+        </div>
+        <div class="footer__bottom-block">
+            <p class="footer__copyright">©WELBEX 2022. Bce права защищены.</p>
+            <p class="footer__copyright">Политика конфиденциальности</p>
+        </div>
+    </footer>
 </body>
 </html>
