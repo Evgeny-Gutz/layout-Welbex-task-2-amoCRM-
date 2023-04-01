@@ -6,3 +6,9 @@
 .header__menu-element:last-child {
     margin: 0;
 }
+
+@media screen and (max-width: 425px) {
+    .header__menu-element {
+        margin: 0 16px 0 0;
+    }
+}
