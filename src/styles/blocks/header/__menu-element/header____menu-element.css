@@ -6,8 +6,3 @@
 .header__menu-element:last-child {
     margin: 0;
 }
-
-.header__menu-element:hover {
-    cursor: pointer;
-    color: #adaeb0;
-}

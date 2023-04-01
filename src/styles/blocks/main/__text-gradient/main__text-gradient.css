@@ -1,0 +1,7 @@
+.main__text-gradient {
+    background: linear-gradient(277deg,#fcb045 11.14%,#fd1d1d 158.36%),#e4e5ea;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+}

@@ -1,0 +1,21 @@
+.main__button {
+    margin: 0;
+    padding: 0;
+    width: 262px;
+    height: 61px;
+    border: none;
+    background-color: #4077F3;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.1875;
+    text-align: center;
+    color: #E4E5EA;
+    align-self: end;
+}
+
+.main__button:hover {
+    cursor: pointer;
+    background-color: #325fc8;
+}

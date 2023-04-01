@@ -1,7 +1,10 @@
 .main {
+    box-sizing: border-box;
     margin: 0 auto;
-    padding: 0;
-    width: 1140px;
+    padding: 90px 20px 0;
+    max-width: 1180px;
     min-width: 320px;
-    height: 500px;
+    display: grid;
+    grid-template-columns: repeat(2, 570px);
+    color: #E4E5EA;
 }

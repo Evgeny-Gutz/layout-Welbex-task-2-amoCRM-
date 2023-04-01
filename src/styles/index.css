@@ -15,5 +15,13 @@
 @import url('./blocks/header/__menu-link/header__menu-link.css');
 
 @import url('./blocks/main/main.css');
+@import url('./blocks/main/__left-block/main__left-block.css');
+@import url('./blocks/main/__right-block/main__right-block.css');
+@import url('./blocks/main/__h4/main__h4.css');
+@import url('./blocks/main/__text-gradient/main__text-gradient.css');
+@import url('./blocks/main/__table-group/main__table-group.css');
+@import url('./blocks/main/__table-h6/main__table-h6.css');
+@import url('./blocks/main/__table-text/main__table-text.css');
+@import url('./blocks/main/__button/main__button.css');
 
 @import url('./blocks/footer/footer.css');
