@@ -1,10 +1,10 @@
 .main__table-group {
     margin: 0;
-    padding: 40px 0 61px 0;
+    padding: 37px 0 61px 0;
     display: grid;
     grid-template-columns: repeat(2, 135px);
     grid-template-rows: repeat(2, 68px);
-    gap: 6px 30px;
+    gap: 30px 30px;
 }
 
 @media screen and (max-width: 760px) {

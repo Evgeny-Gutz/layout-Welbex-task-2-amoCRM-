@@ -1,6 +1,6 @@
 .footer__top-block {
     display: grid;
-    grid-template-columns: 300px 540px 300px;
+    grid-template-columns: 290px 550px 300px;
 }
 
 @media screen and (max-width: 1180px) {

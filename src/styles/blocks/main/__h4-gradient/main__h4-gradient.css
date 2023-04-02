@@ -4,4 +4,6 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+    font-size: 1.21rem;
+    line-height: 0.9;
 }
