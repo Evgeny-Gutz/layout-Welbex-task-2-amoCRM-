@@ -1,1 +1,3 @@
-# layout-Welbex-task-2-amoCRM-
+# layout-Welbex-task-2-amoCRM
+
+Тестовое задание №2: Сверстайте страницу по макету.
