@@ -3,3 +3,9 @@
     padding: 0;
     list-style-type: none;
 }
+
+@media screen and (max-width: 535px) {
+    .footer__list-element {
+        margin: 0 0 8px 0;
+    }
+}

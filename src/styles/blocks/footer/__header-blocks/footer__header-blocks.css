@@ -13,6 +13,7 @@
 
 @media screen and (max-width: 535px) {
     .footer__header-blocks {
+        padding: 0 0 19px 0;
         font-size: 0.75rem;
         line-height: 1.25;
         text-align: left;

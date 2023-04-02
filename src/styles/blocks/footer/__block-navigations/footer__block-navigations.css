@@ -5,7 +5,7 @@
 
 @media screen and (max-width: 535px) {
     .footer__block-navigations {
-        grid-template-columns: 100px 100px;
+        grid-template-columns: 100px 111px;
         column-gap: 48px;
     }
 }
